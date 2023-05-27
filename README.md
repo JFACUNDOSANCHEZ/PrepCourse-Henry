@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositor de prueba del modulo 2 
+Este proyecto es un ejemplo de como hacer un repositorio y clonarlo desde git hub
